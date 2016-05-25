@@ -1,0 +1,16 @@
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\bin\Debug\Kinect.1020.ユーザビリティ評価タスク作成.exe.config
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\bin\Debug\Kinect.1020.ユーザビリティ評価タスク作成.exe
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\bin\Debug\Kinect.1020.ユーザビリティ評価タスク作成.pdb
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\obj\Debug\Kinect.1020.ユーザビリティ評価タスク作成.csprojResolveAssemblyReference.cache
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\obj\Debug\MainWindow.g.cs
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\obj\Debug\App.g.cs
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\obj\Debug\Kinect.1020.ユーザビリティ評価タスク作成_MarkupCompile.cache
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\obj\Debug\Kinect.1020.ユーザビリティ評価タスク作成_MarkupCompile.lref
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\obj\Debug\MainWindow.baml
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\obj\Debug\Kinect.1020.ユーザビリティ評価タスク作成.g.resources
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\obj\Debug\Kinect._1020.ユーザビリティ評価タスク作成.Properties.Resources.resources
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\obj\Debug\Kinect.1020.ユーザビリティ評価タスク作成.csproj.GenerateResource.Cache
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\obj\Debug\Kinect.1020.ユーザビリティ評価タスク作成.exe
+c:\users\sakai\documents\visual studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\obj\Debug\Kinect.1020.ユーザビリティ評価タスク作成.pdb
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\obj\Debug\Window1.g.cs
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1020.ユーザビリティ評価タスク作成\Kinect.1020.ユーザビリティ評価タスク作成\obj\Debug\Window1.baml

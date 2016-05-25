@@ -1,0 +1,32 @@
+﻿<Window x:Class="Kinect.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kinect"
+        mc:Ignorable="d"
+        Title="Window1" Height="300" Width="300">
+    <Grid>
+        <ComboBox x:Name="Control" HorizontalAlignment="Left" Margin="120,116,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="マウス" IsSelected="True"/>
+            <ComboBoxItem Content="depth"/>
+            <ComboBoxItem Content="グー"/>
+        </ComboBox>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="120,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="ButtonSize" HorizontalAlignment="Left" Margin="155,170,0,0" VerticalAlignment="Top" Width="64">
+            <ComboBoxItem Content="15" IsSelected="True"/>
+            <ComboBoxItem Content="35"/>
+            <ComboBoxItem Content="60"/>
+        </ComboBox>
+        <Label x:Name="label" Content="name" HorizontalAlignment="Left" Margin="58,52,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy" Content="Button size" HorizontalAlignment="Left" Margin="41,166,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy1" Content="Control" HorizontalAlignment="Left" Margin="49,112,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="Distance" HorizontalAlignment="Left" Margin="155,202,0,0" VerticalAlignment="Top" Width="64">
+            <ComboBoxItem Content="70" IsSelected="True"/>
+            <ComboBoxItem Content="100"/>
+            <ComboBoxItem Content="150"/>
+        </ComboBox>
+        <Label x:Name="label_Copy2" Content="Distance" HorizontalAlignment="Left" Margin="41,202,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

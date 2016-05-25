@@ -1,0 +1,14 @@
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\bin\Debug\カウント.exe.config
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\bin\Debug\カウント.exe
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\bin\Debug\カウント.pdb
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\obj\Debug\カウント.csprojResolveAssemblyReference.cache
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\obj\Debug\MainWindow.g.cs
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\obj\Debug\App.g.cs
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\obj\Debug\カウント_MarkupCompile.cache
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\obj\Debug\カウント_MarkupCompile.lref
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\obj\Debug\MainWindow.baml
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\obj\Debug\カウント.g.resources
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\obj\Debug\カウント.Properties.Resources.resources
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\obj\Debug\カウント.csproj.GenerateResource.Cache
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\obj\Debug\カウント.exe
+c:\users\sakai\documents\visual studio 2015\Projects\カウント\カウント\obj\Debug\カウント.pdb

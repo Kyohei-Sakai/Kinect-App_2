@@ -1,0 +1,15 @@
+﻿<Window x:Class="カウント.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:カウント"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="671.46">
+    <Grid>
+        <Button x:Name="button" Content="COUNT" HorizontalAlignment="Left" Height="188" Margin="25,114,0,0" VerticalAlignment="Top" Width="288" Click="button_Click"/>
+        <Button x:Name="button1" Content="RESET" HorizontalAlignment="Left" Height="42" Margin="592,260,0,0" VerticalAlignment="Top" Width="48" Click="button1_Click"/>
+        <Label x:Name="label" Content="0" HorizontalAlignment="Left" Height="196" Margin="326,17,-137,0" VerticalAlignment="Top" Width="328" FontSize="144"/>
+
+    </Grid>
+</Window>

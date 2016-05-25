@@ -1,0 +1,31 @@
+﻿<Window x:Class="Kinect._1020.ユーザビリティ評価タスク作成.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kinect._1020.ユーザビリティ評価タスク作成"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Loaded="Window_Loaded"
+        Closing="Window_Closing" Height="1024" Width="1280">
+    <Grid>
+        <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" Margin="46,51,0,0" VerticalAlignment="Top" Width="228" Height="229" Click="button1_Click"/>
+        <Button x:Name="button2" Content="Button" HorizontalAlignment="Left" Margin="360,51,0,0" VerticalAlignment="Top" Width="230" Height="229" Click="button2_Click"/>
+        <Button x:Name="button3" Content="Button" HorizontalAlignment="Left" Margin="691,51,0,0" VerticalAlignment="Top" Width="230" Height="229" Click="button3_Click"/>
+        <Button x:Name="button4" Content="Button" HorizontalAlignment="Left" Margin="997,51,0,0" VerticalAlignment="Top" Width="230" Height="229" Click="button4_Click"/>
+        <Button x:Name="button5" Content="Button" HorizontalAlignment="Left" Margin="46,365,0,0" VerticalAlignment="Top" Width="230" Height="229" Click="button5_Click"/>
+        <Button x:Name="button6" Content="Button" HorizontalAlignment="Left" Margin="360,365,0,0" VerticalAlignment="Top" Width="230" Height="229" Click="button6_Click"/>
+        <Button x:Name="button7" Content="Button" HorizontalAlignment="Left" Margin="691,365,0,0" VerticalAlignment="Top" Width="230" Height="229" Click="button7_Click"/>
+        <Button x:Name="button8" Content="Button" HorizontalAlignment="Left" Margin="997,365,0,0" VerticalAlignment="Top" Width="230" Height="229" Click="button8_Click"/>
+        <Button x:Name="button9" Content="Button" HorizontalAlignment="Left" Margin="46,689,0,0" VerticalAlignment="Top" Width="230" Height="229" Click="button9_Click"/>
+        <Button x:Name="button10" Content="Button" HorizontalAlignment="Left" Margin="360,689,0,0" VerticalAlignment="Top" Width="230" Height="229" Click="button10_Click"/>
+        <Button x:Name="button11" Content="Button" HorizontalAlignment="Left" Margin="691,689,0,0" VerticalAlignment="Top" Width="230" Height="229" Click="button11_Click"/>
+        <Button x:Name="button12" Content="Button" HorizontalAlignment="Left" Margin="997,689,0,0" VerticalAlignment="Top" Width="230" Height="229" Click="button12_Click"/>
+
+
+
+
+
+
+    </Grid>
+</Window>

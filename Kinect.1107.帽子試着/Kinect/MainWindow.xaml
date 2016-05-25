@@ -1,0 +1,33 @@
+﻿<Window x:Class="Kinect.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kinect"
+        mc:Ignorable="d"
+        Title="Kinect for Windows SDK v2"
+        Loaded="Window_Loaded"
+        Closing="Window_Closing"
+        Height="728.74" Width="1300.673">
+    <Grid Width="960" Height="540">
+        <Image x:Name="ImageColor" Width="960" Height="540" />
+        <Canvas x:Name="CanvasBody"  Width="960" Height="540">
+            <Image x:Name="hatImage" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Canvas.Left="249" Canvas.Top="257" Source="Resources/帽子.png"/>
+        </Canvas>
+        <Canvas x:Name="CanvasButton" Width="960" Height="540"/>
+        <ComboBox x:Name="ComboChoosePlayerType" HorizontalAlignment="Left" Margin="0,545,0,-31" VerticalAlignment="Top" Width="182" Height="26"/>
+        <ComboBox x:Name="ComboChooseClick" HorizontalAlignment="Left" Height="26" Margin="212,545,0,-31" VerticalAlignment="Top" Width="170">
+            <ComboBoxItem Content="mouse" IsSelected="True"/>
+            <ComboBoxItem Content="depth"/>
+            <ComboBoxItem Content="gu"/>
+        </ComboBox>
+        <Slider x:Name="slider4" HorizontalAlignment="Left" Margin="989,392,-129,0" VerticalAlignment="Top" Width="100" Value="4" Minimum="3" Maximum="8"/>
+        <Label x:Name="label4" Content="Label" HorizontalAlignment="Left" Margin="989,410,-129,0" VerticalAlignment="Top" Width="100"/>
+        <Slider x:Name="slider1" HorizontalAlignment="Left" Margin="989,136,-129,0" VerticalAlignment="Top" Width="100" Value="0.4" Maximum="1"/>
+        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="989,154,-129,0" VerticalAlignment="Top" Width="100"/>
+        <Slider x:Name="slider2" HorizontalAlignment="Left" Margin="989,220,-129,0" VerticalAlignment="Top" Width="100" Value="1" Maximum="4" Minimum="1"/>
+        <Label x:Name="label2" Content="Label" HorizontalAlignment="Left" Margin="989,238,-129,0" VerticalAlignment="Top" Width="100"/>
+        <Slider x:Name="slider3" HorizontalAlignment="Left" Margin="989,304,-129,0" VerticalAlignment="Top" Width="100" Value="2" Minimum="2" Maximum="6"/>
+        <Label x:Name="label3" Content="Label" HorizontalAlignment="Left" Margin="989,322,-129,0" VerticalAlignment="Top" Width="100"/>
+    </Grid>
+</Window>

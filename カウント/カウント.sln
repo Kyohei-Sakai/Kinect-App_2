@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "カウント", "カウント\カウント.csproj", "{252B2822-3809-4670-A8DC-E6A8ACD2974B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252B2822-3809-4670-A8DC-E6A8ACD2974B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252B2822-3809-4670-A8DC-E6A8ACD2974B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252B2822-3809-4670-A8DC-E6A8ACD2974B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252B2822-3809-4670-A8DC-E6A8ACD2974B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

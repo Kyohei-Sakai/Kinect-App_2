@@ -1,0 +1,29 @@
+﻿<Window x:Class="Kinect.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect for Windows SDK v2"
+        Loaded="Window_Loaded"
+        Closing="Window_Closing" Height="1024" Width="2560"
+        >
+    <Window.Resources>
+        <Style x:Key="GridLineStyle" TargetType="Line">
+            <Setter Property="StrokeThickness" Value="1" />
+            <Setter Property="Stroke" Value="LightGray" />
+            <Setter Property="SnapsToDevicePixels" Value="True" />
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Image x:Name="ImageDepth" Width="512" Height="424" Margin="1792,320,248,249"  />
+        <Canvas x:Name="CanvasPoint" Width="1200" Height="950" Margin="28,22,1324,21"/>
+        <Canvas x:Name="CanvasBody" Width="512" Height="424" Margin="1792,320,248,249" />
+
+        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="28,22,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Label" HorizontalAlignment="Left" Margin="28,70,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Label" HorizontalAlignment="Left" Margin="28,117,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="Label" HorizontalAlignment="Left" Margin="28,179,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1" Content="Button1" HorizontalAlignment="Left" Margin="528,208,0,0" VerticalAlignment="Top" Width="51" Height="52" Click="button1_Click"/>
+        <Button x:Name="button2" Content="Button2" HorizontalAlignment="Left" Margin="266,208,0,0" VerticalAlignment="Top" Width="51" Height="52" Click="button2_Click"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="39" Margin="1445,103,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="180"/>
+    </Grid>
+</Window>

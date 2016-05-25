@@ -1,0 +1,25 @@
+﻿<Window x:Class="Kinect.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kinect"
+        mc:Ignorable="d"
+        Title="Window1" Height="286.781" Width="296.59">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="120,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label" Content="name" HorizontalAlignment="Left" Margin="45,57,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="ButtonSize" HorizontalAlignment="Left" Margin="120,135,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="30"/>
+            <ComboBoxItem Content="50" IsSelected="True"/>
+        </ComboBox>
+        <Label x:Name="label_Copy" Content="Size" HorizontalAlignment="Left" Margin="49,131,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="" HorizontalAlignment="Left" Margin="30,119,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy1" Content="回数" HorizontalAlignment="Left" Margin="49,184,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="CountNumber" HorizontalAlignment="Left" Margin="120,188,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="10" IsSelected="True"/>
+            <ComboBoxItem Content="30"/>
+            <ComboBoxItem Content="60"/>
+        </ComboBox>
+    </Grid>
+</Window>

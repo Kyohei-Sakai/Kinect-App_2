@@ -1,0 +1,66 @@
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe.config
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\obj\Debug\App.g.cs
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.cache
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.g.resources
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\sakai\Documents\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe.config
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\obj\Debug\App.g.cs
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.cache
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.g.resources
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+C:\Users\sakai\Documents\Kinect\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe.config
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\obj\Debug\App.g.cs
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.cache
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.g.resources
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\sakai\Documents\KinectSDK\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe.config
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\obj\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\obj\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\obj\Debug\CoordinateMappingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\obj\Debug\MainWindow.baml
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\obj\Debug\MainWindow.g.cs
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\obj\Debug\App.g.cs
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.cache
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\obj\Debug\CoordinateMappingBasics-WPF.g.resources
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\obj\Debug\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\obj\Debug\CoordinateMappingBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\obj\Debug\Window1.g.cs
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.lref
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.bodyIndex表示 - コピー\obj\Debug\Window1.baml
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.実験(メタファ)改\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe.config
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.実験(メタファ)改\obj\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\sakai\Documents\Visual Studio 2015\Projects\Kinect.1203.実験(メタファ)改\obj\Debug\CoordinateMappingBasics-WPF.pdb

@@ -1,0 +1,28 @@
+﻿<Window x:Class="kinect._0706.ex1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect for Windows SDK v2"
+        Loaded="Window_Loaded"
+        Closing="Window_Closing" Height="1024" Width="1280"
+        >
+    <Window.Resources>
+        <Style x:Key="GridLineStyle" TargetType="Line">
+            <Setter Property="StrokeThickness" Value="1" />
+            <Setter Property="Stroke" Value="LightGray" />
+            <Setter Property="SnapsToDevicePixels" Value="True" />
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Image x:Name="ImageDepth" Width="512" Height="424"  />
+        <Canvas x:Name="CanvasPoint" Width="1200" Height="950"/>
+        <Canvas x:Name="CanvasBody" Width="512" Height="424" />
+
+        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="28,22,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Label" HorizontalAlignment="Left" Margin="28,70,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Label" HorizontalAlignment="Left" Margin="28,117,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="Label" HorizontalAlignment="Left" Margin="28,179,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Button" Margin="480,714,539,205" Click="button_Click"/>
+        <TextBox x:Name="textBox" TextWrapping="Wrap" Text="no.1" Margin="502,821,565,149"/>
+    </Grid>
+</Window>

@@ -1,0 +1,47 @@
+﻿<Window x:Class="Kinect.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kinect"
+        mc:Ignorable="d"
+        Title="Kinect for Windows SDK v2"
+        Loaded="Window_Loaded"
+        Closing="Window_Closing"
+        Height="728.74" Width="1122.686">
+    <Grid Width="960" Height="540">
+        <Image x:Name="ImageColor" Width="960" Height="540" />
+
+        <Canvas x:Name="CanvasBody"  Width="960" Height="540"/>
+
+        <Canvas x:Name="CanvasFace"  Width="960" Height="540">
+            <Image x:Name="imageFace" Height="100" Canvas.Left="1076" Canvas.Top="186" Width="100" Source="Resources/iron man.png"/>
+        </Canvas>
+
+        <Canvas x:Name="CanvasButton" Width="960" Height="540"/>
+
+        <Canvas x:Name="CanvasHandL" Width="960" Height="540">
+            <Image x:Name="LeftHand" Height="100" Canvas.Left="1081" Canvas.Top="374" Width="100" Source="Resources/iron right hand.png"/>
+        </Canvas>
+
+        <Canvas x:Name="CanvasHandR" Width="960" Height="540">
+            <Image x:Name="RightHand" Height="100" Canvas.Left="1107" Canvas.Top="495" Width="100" Source="Resources/iron left hand.png"/>
+        </Canvas>
+
+        <Canvas x:Name="CanvasBeamR" Width="960" Height="540">
+            <Image x:Name="ImageBeamR" Height="100" Canvas.Left="1089" Canvas.Top="495" Width="100" Source="Resources/fire.png"/>
+        </Canvas>
+
+        <Canvas x:Name="CanvasBeamL" Width="960" Height="540">
+            <Image x:Name="ImageBeamL" Height="100" Canvas.Left="1052" Canvas.Top="385" Width="100" Source="Resources/fire.png"/>
+        </Canvas>
+
+        <ComboBox x:Name="ComboChoosePlayerType" HorizontalAlignment="Left" Margin="0,545,0,-31" VerticalAlignment="Top" Width="182" Height="26"/>
+        <ComboBox x:Name="ComboChooseClick" HorizontalAlignment="Left" Height="26" Margin="212,545,0,-31" VerticalAlignment="Top" Width="170">
+            <ComboBoxItem Content="mouse" IsSelected="True"/>
+            <ComboBoxItem Content="depth"/>
+            <ComboBoxItem Content="gu"/>
+        </ComboBox>
+
+    </Grid>
+</Window>
